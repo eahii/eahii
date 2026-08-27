@@ -2,7 +2,7 @@
 
 I build production systems where most of the code is model-generated, and I own the part that makes it trustworthy: specification, quality gates, verification.
 
-**Why most repositories here are private.** Almost everything I build is client-owned or under
+**Why most repositories here are private:** Almost everything I build is client-owned or under
 NDA. What I can show publicly is the method rather than the deliverables.
 
 **Selected work**
