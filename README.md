@@ -12,7 +12,7 @@ NDA. What I can show publicly is the method rather than the deliverables.
 |---|---|
 | **RAG chatbot widget** *(private, client-owned)* | Embeddable assistant: pgvector hybrid retrieval, Shadow DOM isolation, multi-tenant. Runtime guardrails — context-grounded answers, a defined fallback when retrieval is insufficient, enforced source citation, schema-validated input, per-tenant rate limiting. |
 | **Manufacturing QA system** *(private, client-operated)* | In production since 2025, under my own business. The owner brought a business problem, not a specification: solution designed together, then built, delivered and maintained solo. Multi-role workflow, licence sold, IP retained. Second generation currently in build: 21 legal state transitions derived from 1 412 real production events, ERP integration over JSON-RPC, trilingual UI. |
-| **Multi-agent delivery pipeline** *(private)* | Cold lead to a tested, published site in one working day: role-specialised agents, per-phase acceptance criteria, and an independent verifier that reviews the rendered result rather than the author's reasoning. |
+| **Multi-agent workflow system** *(private)* | A written operating manual (intake → design → acceptance criteria → verification), executed by role-specialised agents whose definitions point back to it, so a lesson written once carries into every later run. Phases are gated rather than advisory, and an independent verifier reviews the rendered result rather than the author's account of it. In use for client site delivery: cold lead to a published, tested site in a working day. |
 
 **Writing:** [The Verifier Problem — and the One Place It Turns Inside Out](https://verifier-problem.vercel.app)
 
