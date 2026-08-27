@@ -20,6 +20,6 @@ Essay on why no system can certify itself from the inside, and what that means f
 models. Its 16 sources carry a one-click check each, and several footnotes weaken the essay's own claims where the sources won't carry the stronger version.
 
 `TypeScript · React / Next.js · Astro · Node · PostgreSQL / Supabase / Prisma · pgvector & RAG ·
-Playwright · CI/CD · WCAG · Python (tooling)`
+Playwright · CI/CD · WCAG · Python`
 
 [LinkedIn](https://www.linkedin.com/in/juusopatjas/)
