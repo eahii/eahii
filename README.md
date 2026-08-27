@@ -2,7 +2,8 @@
 
 I build production systems where most of the code is model-generated, and I own the part that makes it trustworthy: specification, quality gates, verification.
 
-**Why most repositories here are private:** Almost everything I build is client-owned or under
+**Why most repositories here are private:** 
+Almost everything I build is client-owned or under
 NDA. What I can show publicly is the method rather than the deliverables.
 
 **Selected work**
@@ -14,6 +15,7 @@ NDA. What I can show publicly is the method rather than the deliverables.
 | **Multi-agent delivery pipeline** *(private)* | Cold lead to a tested, published site in one working day: role-specialised agents, per-phase acceptance criteria, and an independent verifier that reviews the rendered result rather than the author's reasoning. |
 
 **Writing.** [The Verifier Problem — and the One Place It Turns Inside Out](https://verifier-problem.vercel.app)
+
 Essay on why no system can certify itself from the inside, and what that means for building on top of
 models. Its 16 sources carry a one-click check each, and several footnotes weaken the essay's own claims where the sources won't carry the stronger version.
 
