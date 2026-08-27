@@ -14,7 +14,7 @@ NDA. What I can show publicly is the method rather than the deliverables.
 | **Manufacturing QA system** *(private, client-operated)* | In production since 2025, under my own business. The owner brought a business problem, not a specification: solution designed together, then built, delivered and maintained solo. Multi-role workflow, licence sold, IP retained. Second generation currently in build: 21 legal state transitions derived from 1 412 real production events, ERP integration over JSON-RPC, trilingual UI. |
 | **Multi-agent delivery pipeline** *(private)* | Cold lead to a tested, published site in one working day: role-specialised agents, per-phase acceptance criteria, and an independent verifier that reviews the rendered result rather than the author's reasoning. |
 
-**Writing.** [The Verifier Problem — and the One Place It Turns Inside Out](https://verifier-problem.vercel.app)
+**Writing:** [The Verifier Problem — and the One Place It Turns Inside Out](https://verifier-problem.vercel.app)
 
 Essay on why no system can certify itself from the inside, and what that means for building on top of
 models. Its 16 sources carry a one-click check each, and several footnotes weaken the essay's own claims where the sources won't carry the stronger version.
