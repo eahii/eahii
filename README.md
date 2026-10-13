@@ -1,8 +1,5 @@
-# Juuso Patjas
 
-I build production systems where most of the code is model-generated, and I own the part that makes it trustworthy: specification, quality gates, verification.
 
-**Why most repositories here are private:** 
 Almost everything I build is client-owned or under
 NDA. What I can show publicly is the method rather than the deliverables.
 
@@ -21,5 +18,3 @@ models. Its 16 sources carry a one-click check each, and several footnotes weake
 
 `TypeScript · React / Next.js · Astro · Node · PostgreSQL / Supabase / Prisma · pgvector & RAG ·
 Playwright · CI/CD · WCAG · Python`
-
-[LinkedIn](https://www.linkedin.com/in/juusopatjas/)
